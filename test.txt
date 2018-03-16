@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1
 efrfr
 rfrf
@@ -6,3 +7,8 @@ rfrf
 rfrf
 вава
 ввк пеп
+=======
+<<<<<<< HEAD
+1
+>>>>>>> collision
+>>>>>>> collision
