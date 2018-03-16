@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 1
 efrfr
 rfrf
@@ -12,3 +13,5 @@ rfrf
 1
 >>>>>>> collision
 >>>>>>> collision
+=======
+>>>>>>> collisiond
